@@ -1,0 +1,17 @@
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/UnityEngine.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/UnityEditor.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/tjsmith9/HW02_Sprite/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/tjsmith9/HW02_Sprite/obj/Debug/Assembly-CSharp.dll
+/Users/tjsmith9/HW02_Sprite/obj/Debug/Assembly-CSharp.dll.mdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Checkpoint.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SonicControllerScript.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="21" Column="38" />
+      <File FileName="Assets/Scripts/Checkpoint.cs" Line="25" Column="4" />
+      <File FileName="Assets/Scripts/LevelController.cs" Line="23" Column="3" />
+      <File FileName="Assets/Scripts/PlayerDeath.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Flag.cs" Line="27" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
